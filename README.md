@@ -1,11 +1,11 @@
 # covid
 
 Este proyecto fue desarrollado utilizando 
---> Vue CLI
---> Bootstrap-vue
---> API de Google Maps
---> Hosting gratuito de Firebase
---> API de información (https://www.trackcorona.live/ap)
+- Vue CLI
+- Bootstrap-vue
+- API de Google Maps
+- Hosting gratuito de Firebase
+- API de información (https://www.trackcorona.live/ap)
 
 ## Project DEMO
 
