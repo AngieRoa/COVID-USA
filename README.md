@@ -12,6 +12,8 @@ Este proyecto fue desarrollado utilizando
 Visualice la aplicación en el siguiente link: 
 https://covid-usa-ccfc2.web.app
 
+Se recomienda esperar un minuto para cargar la información antes de pasar el cursor.
+
 En caso de querer visualizar a fondo el proyecto de manera local, descargue los archivos y ejecute los siguientes comandos en la terminal
 
 ## Project setup
